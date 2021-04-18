@@ -17,4 +17,4 @@ You will also see any lint errors in the console.
 ### Search App
 If you type anything in search bar, it will show result beneath
 
-![App Image](https://github.com/yogeshsherawat/Search-App-Task/image.PNG)
+![App Image](https://github.com/yogeshsherawat/Search-App-Task/blob/main/image.PNG)
